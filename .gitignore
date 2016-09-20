@@ -1,0 +1,8 @@
+*.webm
+*.json
+VOCdevkit
+positions.txt
+keypresses.txt
+.*.sw*
+__pycache__
+!sample.json
